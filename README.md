@@ -103,6 +103,11 @@ BLOG-POST-LIST:START -->
 
 </details>
 
+### Latest Blog Posts 📌📌📌
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
 <!-- [website]: https://ZiyodovAnvar.com -->
 [Facebook]: https://www.facebook.com/anvar.ziyodov99
 [twitter]: https://twitter.com/ZiyodovAnvar?s=09
