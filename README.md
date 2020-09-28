@@ -1,4 +1,4 @@
-### Hi there, I'm Anvar [Profile] 👋
+### Hi there, I'm Anvar 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ZiyodovAnvar?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/ZiyodovAnvar?s=09)
 
