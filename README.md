@@ -5,7 +5,7 @@
 ## I'm a Developer and Teacher!
 
 - 🔭 I’m currently working on a [Android Studio ]
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to make more friends 😎
@@ -99,7 +99,7 @@ BLOG-POST-LIST:START -->
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats-tan-nu.vercel.app/api?username=Mr-Perfectuz&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's Github Stats" src="readme-stats-beta.vercel.app/api?username=Mr-Perfectuz&show_icons=true&hide_border=true" />
 
 </details>
 
