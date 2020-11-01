@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ZiyodovAnvar?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/ZiyodovAnvar?s=09)
 
- <img align="left" alt="codeSTACKr's Github Stats" src="https://readme-stats-beta.vercel.app/api?username=Mr-Perfectuz&show_icons=true&hide_border=true" />
+ <img align="left" alt="codeSTACKr's Github Stats" src="https://readme-stats-beta.vercel.app/api?username=Mr-Perfectuz&show_icons=true&hide_border=true&theme=synthwave" />
 
 ## I'm a Developer and Teacher!
 
@@ -101,7 +101,7 @@ BLOG-POST-LIST:START -->
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://readme-stats-beta.vercel.app/api?username=Mr-Perfectuz&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://readme-stats-beta.vercel.app/api?username=Mr-Perfectuz&show_icons=true&hide_border=true&theme=dracula" />
 
 </details>
 
