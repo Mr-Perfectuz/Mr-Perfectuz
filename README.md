@@ -109,7 +109,7 @@ BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?@AnvarZiyodov=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AnvarZiyodov)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [website]: https://ZiyodovAnvar.com -->
 [Facebook]: https://www.facebook.com/anvar.ziyodov99
