@@ -111,8 +111,8 @@ BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-### Willianrod's wakatime stats
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AnvarZiyodov)](https://github.com/anuraghazra/github-readme-stats)
+### Most used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Mr-Perfectuz=anuraghazra&langs_count=10)](https://github.com/Mr-Perfectuz/github-readme-stats)
 
 <!-- [website]: https://ZiyodovAnvar.com -->
 [Facebook]: https://www.facebook.com/anvar.ziyodov99
@@ -120,3 +120,5 @@ BLOG-POST-LIST:START -->
 [youtube]: https://www.youtube.com/channel/UCufG1d0wiW9CRcHG34nHnlg?view_as=subscriber
 [instagram]: https://www.instagram.com/mr.perfectuz
 [linkedin]:  https://www.linkedin.com/in/anvar-ziyodov-525230195
+
+
