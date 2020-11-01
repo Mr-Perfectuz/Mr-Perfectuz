@@ -112,7 +112,7 @@ BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 ### Most used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Perfectuz&langs_count=10)](https://github.com/Mr-Perfectuz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Perfectuz&layout=compact&langs_count=10)](https://github.com/Mr-Perfectuz/github-readme-stats)
 
 <!-- [website]: https://ZiyodovAnvar.com -->
 [Facebook]: https://www.facebook.com/anvar.ziyodov99
