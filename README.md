@@ -68,7 +68,6 @@
 
 <br />
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mr-Perfectuz&repo=github-readme-stats)](https://github.com/Mr-Perfectuz/github-readme-stats)
 
 <br />
 
