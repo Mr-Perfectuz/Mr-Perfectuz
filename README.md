@@ -109,6 +109,7 @@ BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+### Willianrod's wakatime stats
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AnvarZiyodov)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [website]: https://ZiyodovAnvar.com -->
