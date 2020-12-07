@@ -122,3 +122,5 @@ BLOG-POST-LIST:START -->
 [linkedin]:  https://www.linkedin.com/in/anvar-ziyodov-525230195
 
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
