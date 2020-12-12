@@ -103,7 +103,7 @@ BLOG-POST-LIST:START -->
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://readme-stats-beta.vercel.app/api?username=Mr-Perfectuz&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true" />
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://readme-stats-beta.vercel.app/api?username=Mr-Perfectuz&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 
 </details>
 
