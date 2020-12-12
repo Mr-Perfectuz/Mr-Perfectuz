@@ -131,7 +131,7 @@ BLOG-POST-LIST:START -->
 <br><br>
 <img src="https://github-profile-trophy.vercel.app/?username=Mr-Perfectuz&theme=onedark" width="100%">
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=Mr-Perfectuz&show_icons=true&theme=tokyonight&count_private=true" width="54.4%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Perfectuz&langs_count=10&layout=compact&theme=tokyonight" width="45.6%">
+<img src="https://github-readme-stats.vercel.app/api?username=Mr-Perfectuz&show_icons=true&theme=tokyonight&count_private=true" width="54.4%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Perfectuz&layout=compact&theme=tokyonight" width="45.6%">
 
 
 
