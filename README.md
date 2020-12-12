@@ -131,7 +131,6 @@ BLOG-POST-LIST:START -->
 
 
 
-<br />
 
 ### The number of people watched me:
 
