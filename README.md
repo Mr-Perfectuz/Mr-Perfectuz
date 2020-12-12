@@ -1,4 +1,4 @@
-### Hi there, I'm Anvar 👋
+### Hi there, I'm Anvar <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2><img  align='right' src="https://i.ibb.co/5x52S7h/Coffee-bitmoji.png">
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ZiyodovAnvar?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/ZiyodovAnvar?s=09)
 
