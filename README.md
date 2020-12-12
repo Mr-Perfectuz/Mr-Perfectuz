@@ -74,8 +74,8 @@ BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-### Most used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Perfectuz&layout=compact&langs_count=10)](https://github.com/Mr-Perfectuz/github-readme-stats)
+### Most used Languages and Stats
+(https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Perfectuz&layout=compact&langs_count=10)](https://github.com/Mr-Perfectuz/github-readme-stats)
 
 ### Languages and Tools:
 
