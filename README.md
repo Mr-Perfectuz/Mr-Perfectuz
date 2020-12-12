@@ -118,6 +118,7 @@ BLOG-POST-LIST:START -->
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 
+<br />
 
 <!-- [website]: https://ZiyodovAnvar.com -->
 [Facebook]: https://www.facebook.com/anvar.ziyodov99
@@ -126,6 +127,8 @@ BLOG-POST-LIST:START -->
 [instagram]: https://www.instagram.com/mr.perfectuz
 [linkedin]:  https://www.linkedin.com/in/anvar-ziyodov-525230195
 
+<br />
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
+<br />
