@@ -4,7 +4,7 @@
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://readme-stats-beta.vercel.app/api?username=Mr-Perfectuz&show_icons=true&hide_border=true&theme=highcontrast&count_private=true" />        
   
-## I'm a Developer and Mentor!    
+## I'm a Developer and Mentor!      
 
 - 🔭 I’m currently working on a [Android Studio ]
 - 🌱 I’m currently learning everything 
