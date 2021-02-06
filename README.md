@@ -58,7 +58,7 @@ BLOG-POST-LIST:START -->
 2. 🗣 Commented on [#1](https://github.com/Mr-Perfectuz/UserReg/1) in [Mr-Perfectuz/UserReg](https://github.com/Mr-Perfectuz/UserReg)
 3. 💪 Opened PR [#6](https://github.com/Mr-Perfectuz/QuantityPicker/6) in [Mr-Perfectuz/QuantityPicker](https://github.com/Mr-Perfectuz/QuantityPicker)
 
-<!--END_SECTION:activity-->
+<!--END_SECTION:activity-->    
 
 </details>
 
