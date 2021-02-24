@@ -4,12 +4,12 @@
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://readme-stats-beta.vercel.app/api?username=Mr-Perfectuz&show_icons=true&hide_border=true&theme=highcontrast&count_private=true" />                                                                                                                                                                                                                                                                                                                                                                  
                                                                                 
-## I'm a Developer and Mentor!                                                                               
+## I'm a Software Developer and Mentor!                                                                               
    
 - 🔭 I’m currently working on a [Android Studio ]  
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects                                   
+- 🥅 2021 Goals: Contribute more to Open Source projects                                   
 - ⚡ Fun fact: I love to make more friends 😎                                                                        
 
 ### Spotify Playing 🎧
