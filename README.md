@@ -2,7 +2,7 @@
                                                                                                                                                 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ZiyodovAnvar?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/ZiyodovAnvar?s=09)
 
-<img align="left" alt="codeSTACKr's Github Stats" width="800px src="https://readme-stats-beta.vercel.app/api?username=Mr-Perfectuz&show_icons=true&hide_border=true&theme=highcontrast&count_private=true" />                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+<img align="left" alt="codeSTACKr's Github Stats" src="https://readme-stats-beta.vercel.app/api?username=Mr-Perfectuz&show_icons=true&hide_border=true&theme=highcontrast&count_private=true" />                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
 ## I'm a Software Developer and Mentor!                
 
    
@@ -12,10 +12,10 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects                                   
 - ⚡ Fun fact: I love to make more friends 😎                                                                        
 
-<!-- ### Spotify Playing 🎧
+ ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="ZiyodovAnvar Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
- -->
+
 <br />         
 <br/>
 ### Connect with me:
