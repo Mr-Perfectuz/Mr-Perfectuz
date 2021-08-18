@@ -57,11 +57,10 @@ BLOG-POST-LIST:START -->
 </details>
 
 
-### Latest Blog Posts 📌📌📌                     
+<!-- ### Latest Blog Posts 📌📌📌                     
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END --> -->
 
-<p><p/>
 ### Most used Languages and Stats 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Perfectuz&layout=compact&theme=dracula&langs_count=10)](https://github.com/Mr-Perfectuz/github-readme-stats)
 
