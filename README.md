@@ -121,7 +121,7 @@ BLOG-POST-LIST:START -->
 [Facebook]: https://www.facebook.com/anvar.ziyodov99
 [twitter]: https://twitter.com/ZiyodovAnvar?s=09
 [youtube]: https://www.youtube.com/channel/UCufG1d0wiW9CRcHG34nHnlg?view_as=subscriber
-[instagram]: https://www.instagram.com/mr.perfectuz
+[instagram]: https://www.instagram.com/anvarbek_ziyodov
 [linkedin]:  https://www.linkedin.com/in/anvar-ziyodov-525230195
 
 <br />
