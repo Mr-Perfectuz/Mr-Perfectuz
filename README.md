@@ -145,6 +145,4 @@ BLOG-POST-LIST:START -->
 
 
 ### The number of people watched me:
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Mr-Perfectuz)
+[![](https://visitcount.itsvg.in/api?id=Mr-Perfectuz&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
