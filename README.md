@@ -1,6 +1,6 @@
  Hi there, I'm Anvar <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2><img  align='right' src="https://i.ibb.co/5x52S7h/Coffee-bitmoji.png">                                     
                                                                                                                                                 
-[![Twitter Follow](https://img.shields.io/linkedin/follow/AnvarbekZiyodov?color=1DA1F2&logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/anvarbekziyodov/)
+[linkedin](https://img.shields.io/linkedin/follow/AnvarbekZiyodov?color=1DA1F2&logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/anvarbekziyodov/)
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://readme-stats-beta.vercel.app/api?username=Mr-Perfectuz&show_icons=true&hide_border=true&theme=highcontrast&include_all_commits=true&count_private=true" />                                                                                                                                                                                                                                                                                  
 ## I'm a Software Developer and Mentor!                
