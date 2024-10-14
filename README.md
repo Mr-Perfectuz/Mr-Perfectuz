@@ -31,32 +31,9 @@ BLOG-POST-LIST:START -->
 
 <!-- ➡️ [more blog posts...](https://codestackr.com) -->
 
----                                    
-
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/Mr-Perfectuz/AndroidFragment/issues/1) in [Mr-Perfectuz/AndroidFragment](https://github.com/Mr-Perfectuz/AndroidFragment)
-2. 🗣 Commented on [#1](https://github.com/Mr-Perfectuz/UserReg/1) in [Mr-Perfectuz/UserReg](https://github.com/Mr-Perfectuz/UserReg)
-3. 💪 Opened PR [#6](https://github.com/Mr-Perfectuz/QuantityPicker/6) in [Mr-Perfectuz/QuantityPicker](https://github.com/Mr-Perfectuz/QuantityPicker)
-
-<!--END_SECTION:activity-->    
-
-</details>
-
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://readme-stats-beta.vercel.app/api?username=Mr-Perfectuz&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-
-</details>
-
-
 <!-- ### Latest Blog Posts 📌📌📌                     
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END --> -->
+<!-- BLOG-POST-LIST:END --> 
 
 <!-- ### Most used Languages and Stats  -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Perfectuz&layout=compact&theme=dracula&langs_count=10)](https://github.com/Mr-Perfectuz/github-readme-stats)
