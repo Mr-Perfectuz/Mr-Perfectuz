@@ -18,7 +18,6 @@ I'm a Software Developer and Mentor!
 <br/>
 
                               
-<!-- --- -->
 
 <!-- ### 📕 Latest Blog Posts
 
