@@ -1,13 +1,10 @@
  Hi there, I'm Anvar <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2><img  align='right' src="https://i.ibb.co/5x52S7h/Coffee-bitmoji.png">                                     
                                                                                                                                                 
 I'm a Software Developer and Mentor!                
-
-   
 - 🔭 I’m currently working on a [React Js]  
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2025 Goals: Contribute more to Open Source projects                                   
 - ⚡ Fun fact: I love to make more friends 😎                                                                        
-
 
 <br/>         
                       
