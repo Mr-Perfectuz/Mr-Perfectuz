@@ -1,12 +1,13 @@
- Hi there, I'm Anvar <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2><img  align='right' src="https://i.ibb.co/5x52S7h/Coffee-bitmoji.png">                                     
-                                                                                                                                                
-I'm a Software Developer and Mentor!                
-- 🔭 I’m currently working on a [React Js]  
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2025 Goals: Contribute more to Open Source projects                                   
-- ⚡ Fun fact: I love to make more friends 😎                                                                        
-
-<br/>         
+<table>
+  <tr>
+    <td style="width: 50%">
+      <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Mr-Perfectuz?cardType=github&theme=tokyonight&preferLogin=false" alt="Anvarbek Ziyodov's Awesome Stats" width="100%">
+    </td>
+    <td style="width: 50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Perfectuz&theme=tokyonight&hide_border=false" alt="Anvarbek Ziyodov's ReadMe Stats" width="100%">
+    </td>
+  </tr>
+</table>   
                       
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Mr-Perfectuz&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)
   
