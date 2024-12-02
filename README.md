@@ -12,9 +12,8 @@ I'm a Software Developer and Mentor!
 
 <br/>         
                       
-
-<!-- ### Most used Languages and Stats  -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Perfectuz&layout=compact&theme=dracula&langs_count=10)](https://github.com/Mr-Perfectuz/github-readme-stats)
+![](https://github-readme-activity-graph.vercel.app/graph?username=Mr-Perfectuz&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)
+  
 
 ### Languages and Tools:
 
