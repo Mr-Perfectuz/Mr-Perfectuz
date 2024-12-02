@@ -9,30 +9,9 @@ I'm a Software Developer and Mentor!
 - 🥅 2025 Goals: Contribute more to Open Source projects                                   
 - ⚡ Fun fact: I love to make more friends 😎                                                                        
 
-<!--  ### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="ZiyodovAnvar Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b) -->
 
 <br/>         
-<br/>
-
-                              
-
-<!-- ### 📕 Latest Blog Posts
-
-BLOG-POST-LIST:START -->
-<!-- - [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl) -->
-<!-- BLOG-POST-LIST:END -->
-
-<!-- ➡️ [more blog posts...](https://codestackr.com) -->
-
-<!-- ### Latest Blog Posts 📌📌📌                     
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END --> 
+                      
 
 <!-- ### Most used Languages and Stats  -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Perfectuz&layout=compact&theme=dracula&langs_count=10)](https://github.com/Mr-Perfectuz/github-readme-stats)
