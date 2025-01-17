@@ -4,7 +4,7 @@
       <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Mr-Perfectuz?cardType=github&theme=tokyonight&preferLogin=false" alt="Anvarbek Ziyodov's Awesome Stats" width="100%">
     </td>
     <td style="width: 50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Perfectuz" alt="Anvarbek Ziyodov's ReadMe Stats" width="100%">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Mr-Perfectuz&theme=dark" alt="Anvarbek Ziyodov's ReadMe Stats" width="100%">
     </td>
   </tr>
 </table>   
