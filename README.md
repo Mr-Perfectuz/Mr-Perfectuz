@@ -5,6 +5,7 @@
     </td>
     <td style="width: 50%">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=Mr-Perfectuz&theme=dark" alt="Anvarbek Ziyodov's ReadMe Stats" width="100%">
+      [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=)](https://git.io/streak-stats)
     </td>
   </tr>
 </table>   
