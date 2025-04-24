@@ -24,12 +24,11 @@
 
 
 <p align="center">
-  <img align="center" width="5%" src="https://dev-to-uploads.s3.amazonaws.com/i/6mlc1xjw8c5i762zgq0i.gif" alt="header"/>
-  <br>
-
 </p>
 <p align="center">
   <img src="header.png" alt="header"/>
 </p>
-
-  <h5 align="center">console.log('Forever Explorer');</h5>
+<br>
+<img align="center" width="5%" src="https://dev-to-uploads.s3.amazonaws.com/i/6mlc1xjw8c5i762zgq0i.gif" alt="header"/>
+<h5 align="center">console.log('Forever Explorer');</h5>
+  
